@@ -1,0 +1,1 @@
+# declarative Rest service  OpenFeign
